@@ -9,3 +9,10 @@ ________________________________________________________________________________
 * Google Maps API
 * Yelp API
 * Polyline
+
+_____________________________________________________________________________________________________________________________
+
+##Getting Started
+
+1. Install the packages and programs shown above
+2. Use the main function in OnTheWay.py to find local shops from origin to destination that are on the way
