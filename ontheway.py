@@ -4,7 +4,7 @@
     API to find local shops on the way to the destination that are least intrusive to
     the transportation trip.
 
-    Creators: Karthik Rao, Tommy Praeger, Julia Weiss, Casey Tilles, Summer 2016
+    Creators: Karthik Rao, Summer 2016
 """
 import googlemaps
 from datetime import datetime
