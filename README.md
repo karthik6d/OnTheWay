@@ -5,6 +5,7 @@ ________________________________________________________________________________
 
 ##Packages Needed
 
+* Python 2.7
 * Google Maps API
 * Yelp API
 * Polyline
